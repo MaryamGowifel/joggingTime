@@ -1,2 +1,2 @@
 # joggingTime
-Tracikng jogging time and distance data for each day
+Tracking jogging time and distance data for each day
